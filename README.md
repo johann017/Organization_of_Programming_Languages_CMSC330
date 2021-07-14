@@ -2,7 +2,7 @@
 
 ## Setup
 To run `Battleship`:
-- Install [Ruby]
+- Install [Ruby](https://www.ruby-lang.org/en/downloads/)
 - `ruby src/main.rb test/public/inputs/player1.txt test/public/inputs/player2.txt test/public/inputs/perfect_strat_p1.txt test/public/inputs/perfect_strat_p2.txt`
 
 To run `Turtles in Campus`:
