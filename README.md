@@ -1,6 +1,14 @@
 # CMSC330_Projects
 
 ## Setup
+To run `Battleship`:
+- Install [Ruby]
+- `ruby src/main.rb test/public/inputs/player1.txt test/public/inputs/player2.txt test/public/inputs/perfect_strat_p1.txt test/public/inputs/perfect_strat_p2.txt`
+
+To run `Turtles in Campus`:
+- Install [Rust](https://www.rust-lang.org/tools/install)
+- To compile, run `cargo build`
+- To test, run `cargo test`
 
 ## Description
 ### `Battleship`
