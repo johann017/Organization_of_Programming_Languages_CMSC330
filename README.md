@@ -5,6 +5,15 @@ To run `Battleship`:
 - Install [Ruby](https://www.ruby-lang.org/en/downloads/)
 - `ruby src/main.rb test/public/inputs/player1.txt test/public/inputs/player2.txt test/public/inputs/perfect_strat_p1.txt test/public/inputs/perfect_strat_p2.txt`
 
+To run `Finite Automata`:
+- Install [OCaml](https://ocaml.org/docs/install.html)
+- Set environment variable and run tests: `env OCAMLPATH=dep dune runtest -f`
+
+To run `Lexer_Parser_Interpreter`:
+- Install [OCaml](https://ocaml.org/docs/install.html)
+- To run tests: `dune runtest -f`
+- To run and test from top level: `dune utop src`
+
 To run `Turtles in Campus`:
 - Install [Rust](https://www.rust-lang.org/tools/install)
 - To compile, run `cargo build`
