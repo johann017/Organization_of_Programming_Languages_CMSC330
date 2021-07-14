@@ -1,0 +1,13 @@
+hello, (1,2), Right, 2
+(9,9), Left, 0
+(1,1), Left, 2
+(2,2), Right, 3
+(2,6), Down, 2
+(5,2), Left, 2
+(6,8), Up, 5
+(10,11), Left, 4
+(7,2), Right, 5
+(8,8), Right, 2
+(3,3), Right, 1
+(4,4), Left, 1
+(5,5), Left, 1
